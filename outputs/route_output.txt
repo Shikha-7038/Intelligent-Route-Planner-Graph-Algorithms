@@ -1,0 +1,39 @@
+
+======================================================================
+ROUTE SUMMARY REPORT
+======================================================================
+
+[TRIP DETAILS]:
+   From: A
+   To:   H
+   Date: 2026-06-05 16:40:32
+
+[OPTIMIZATION CRITERIA]:
+   Optimized for: COST
+
+[OPTIMAL ROUTE]:
+   A -> B -> C -> E -> G -> H
+
+[STATISTICS]:
+   Total Cost: 27.0 points
+   Actual Time: 25.0 minutes
+   Distance: 11.8 km
+   Number of Stops: 6
+   Toll Roads: 1
+
+[TURN-BY-TURN DIRECTIONS]:
+   1. Travel from A to B
+      -> 2.5 km, 5.0 min
+   2. Travel from B to C
+      -> 1.8 km, 4.0 min
+   3. Travel from C to E
+      -> 2.0 km, 4.0 min
+   4. Travel from E to G
+      -> 3.0 km, 7.0 min
+      -> [WARNING] Toll road
+   5. Travel from G to H
+      -> 2.5 km, 5.0 min
+
+======================================================================
+[SUCCESS] Route optimization completed successfully!
+======================================================================
